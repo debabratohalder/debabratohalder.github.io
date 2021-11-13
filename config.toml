@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Debabrato Halder"
 description = "Debabrato's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Data Analyst", "Photographer"]
 avatarURL = "images/profile.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -121,7 +121,7 @@ url = "https://twitter.com/johndoe/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/debabrato-halder/"
 
 # [[params.social]]
 # name = "Medium"
