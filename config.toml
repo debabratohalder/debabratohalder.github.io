@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Debabrato Halder"
 description = "Debabrato's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Data Analyst", "Photographer"]
 avatarURL = "images/profile.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
@@ -97,7 +97,8 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/debabratohalder/"
+#debabratohalder.github.io
 
 [[params.social]]
 name = "Facebook"
@@ -111,11 +112,11 @@ url = "https://facebook.com/debabrato.halder/"
 # weight = 2
 # url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+# [[params.social]]
+# name = "Twitter"
+# icon = "fa fa-2x fa-twitter"
+# weight = 3
+# url = "https://twitter.com/johndoe/"
 
 [[params.social]]
 name = "LinkedIn"
